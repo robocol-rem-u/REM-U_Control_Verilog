@@ -58,7 +58,7 @@
 ## tbd
 !source_v
 !source_v/*
-.DS_Store
+source/.DS_Store
 
 !*.tcl
 
