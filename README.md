@@ -15,7 +15,7 @@ Quartus II and a FPGA
 ## Built With
 
 * [Quartus II Lite](https://www.intel.com/content/www/us/en/programmable/downloads/download-center.html) - Intel FPGAs and Programmable Devices
-* [Altera ModelSim](https://www.intel.la/content/www/xl/es/software/programmable/quartus-prime/model-sim.htmlv) - Simulation Software by Intel
+* [Altera ModelSim](https://www.intel.la/content/www/xl/es/software/programmable/quartus-prime/model-sim.html) - Simulation Software by Intel
 
 
 ## Versioning
