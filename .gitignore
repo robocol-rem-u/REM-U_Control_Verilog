@@ -52,7 +52,7 @@
 !*.bsf
 !**/class.ptf
 !*.tbd
-!*.txt
+!LICENSE.txt
 !*.md
 #!*.sof
 ## tbd
